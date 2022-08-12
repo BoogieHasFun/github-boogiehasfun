@@ -6,7 +6,7 @@ x = not finished
 f = finished
 
 ### progress:
-- doing: some stuffs
+- doing: learning html
 - X website ssl 
 - X creating temp html file
 - X creating main html file
