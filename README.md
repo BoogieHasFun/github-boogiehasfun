@@ -3,11 +3,9 @@ the website for a website
 ---
 x = not finished
 
-f = finished
-
 ### progress:
-- doing: learning html
-- X website ssl 
+- finshed (kinda) - learning html
+- doing - website ssl 
 - X creating temp html file
 - X creating main html file
 - X css
