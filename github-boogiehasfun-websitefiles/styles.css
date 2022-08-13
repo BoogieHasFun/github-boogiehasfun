@@ -21,6 +21,7 @@ h1
 font
 {
   font-family: Consolas;
+  color: #c9d1d9
 }
 
 homeheader
@@ -34,4 +35,24 @@ homeheader
 a
 {
   font-family: Consolas;
+}
+li {
+  float: left;
+  background-color: #1b1d27;
+}
+
+a {
+  display: block;
+  padding: 8px;
+}
+
+footer {
+  background-color: #17182e;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+blackbackground
+{ 
+  background-color: black;
 }
