@@ -7,3 +7,18 @@ linkgit {
 {
     font-size: 28px;
 }
+h4
+{
+  font-family: Consolas;
+  color: #c9d1d9;
+}
+
+h1
+{
+  font-family: Consolas;
+  color: #c9d1d9;
+}
+a
+{
+  font-family: Consolas;
+}
