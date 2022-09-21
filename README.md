@@ -1,6 +1,11 @@
 the website for a website 
 > ~~once im finished creating the code for http://github-boogiehasfun.epizy.com this will be unused.~~ this is mainly used as the source code for my website, im gonna use github-pages as the website backup ([website](https://github-boogiehasfun.epizy.com))
 ---
+
+
+# this is as done as i think it should be
+
+
 x = not finished
 
 ### progress:
