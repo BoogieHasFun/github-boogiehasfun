@@ -14,4 +14,5 @@ x = not finished
 - finished - creating temp html file
 - X ~~creating main html file~~ create new design
 - ~~X css~~ learn most of css
-- X ~~finished~~ website up and running
+- website up and running
+- new certificate for website
