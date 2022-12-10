@@ -15,4 +15,4 @@ x = not finished
 - X ~~creating main html file~~ create new design
 - ~~X css~~ learn most of css
 - website up and running
-- new certificate for website, though firefox browsers may not trust it fully.
+- new certificate for website (currently self-signed)
