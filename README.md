@@ -3,7 +3,7 @@ the website for a website
 ---
 
 
-# this is as done as i think it should be
+### this may be updated, but infrequently. this website was mainly for learning purposes and not for anything else.
 
 
 x = not finished
@@ -15,4 +15,4 @@ x = not finished
 - X ~~creating main html file~~ create new design
 - ~~X css~~ learn most of css
 - website up and running
-- new certificate for website
+- new certificate for website, though firefox browsers may not trust it fully.
