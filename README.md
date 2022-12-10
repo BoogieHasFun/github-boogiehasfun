@@ -4,7 +4,7 @@ the website for a website
 
 
 ### this may be updated, but infrequently. this website was mainly for learning purposes and not for anything else.
-
+# USE THE GITHUB PAGES VERSION, the original website is having some trouble and must be fixed soon. expect me to transfer the files to a new server soon.
 
 x = not finished
 
