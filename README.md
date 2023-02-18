@@ -3,8 +3,8 @@ the website for a website
 ---
 
 
-### this may be updated, but infrequently. this website was mainly for learning purposes and not for anything else.
-# use http://github-boogiehasfun2.epizy.com/ now, the other website is broken and i cannot edit it.
+#### this may be updated, but infrequently. this website was mainly for learning purposes and not for anything else.
+##### use https://github-boogiehasfun2.epizy.com/ as the alternate website  ~~the other website is broken and i cannot edit it.~~
 
 x = not finished
 
