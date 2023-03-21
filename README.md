@@ -16,3 +16,5 @@ x = not finished
 - ~~X css~~ learn most of css
 - website up and running
 - new certificate for website (currently self-signed)
+
+##### hey, i has another more updated version of this! heres a [link](https://boogiehasfun.netlify.app/)
