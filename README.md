@@ -17,4 +17,4 @@ x = not finished
 - website up and running
 - new certificate for website (currently self-signed)
 
-##### hey, i has another more updated version of this! heres a [link](https://boogiehasfun.netlify.app/)
+##### hey, i have another more updated version of this! heres a [link](https://boogiehasfun.netlify.app/)
